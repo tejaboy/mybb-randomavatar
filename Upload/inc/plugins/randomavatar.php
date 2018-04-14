@@ -2,10 +2,10 @@
 /***************************************************************************
  *
  *   RandomAvatar Plugin (/inc/plugins/randomavatar.php)
- *	 Author: jacktheking (aka inTech https://keybase.io/intech)
- *   Copyright: © 2016 jacktheking
+ *	 Author: jacktheking (aka tejaboy https://github.com/tejaboy)
+ *   Copyright: © 2016-2018 jacktheking
  *   
- *   Website: https://keybase.io/intech
+ *   Website: https://github.com/tejaboy
  *
  *   A simple plugin that will select and give a random avatar for newly registred user.
  *
@@ -42,7 +42,7 @@ function randomavatar_info()
 		"description"	=> "A simple plugin that will select and give a random avatar for newly registred user.",
 		"website"		=> "http://community.mybb.com/mods.php?action=view&pid=173",
 		"author"		=> "inTech",
-		"authorsite"	=> "https://keybase.io/intech",
+		"authorsite"	=> "https://github.com/tejaboy",
 		"version"		=> "1.1",
 		"guid" 			=> "",
 		"compatibility" => "*"
